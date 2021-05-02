@@ -16,7 +16,7 @@ export default function Logo() {
             }
             },
         }}>
-        <p>logo</p>
+        <p className="text-xs">logo</p>
         </motion.div>
         </div>
     );
